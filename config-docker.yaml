@@ -17,8 +17,8 @@ GEOIP:
 #Fofa API 配置项
 FOFA:
   URL: "https://fofa.info"
-  EMAIL: "weakchicken@qq.com"
-  KEY: "bdb386b4e3cde63970e4beafd66a51f4"
+  EMAIL: "ytmbcr53281@chacuo.net"
+  KEY: "e6f11721bfaee1e7d378351a7b3d000b"
 #FOFA:
 #  EMAIL: "794230751@qq.com"
 #  KEY: "65f9f6a46d5560b8892be56f2548056b"
