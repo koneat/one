@@ -252,8 +252,6 @@
 /conf/www.conf
 /sftp-config.json
 /app.cfg
-
-#dbconfig
 /config/database.yml
 /database.yml
 /db.conf
